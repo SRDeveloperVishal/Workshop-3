@@ -9,6 +9,7 @@
 - [Tushar](https://github.com/tusharkavya)
 - [Rahul](https://github.com/mad-learner)
 - [Shivam Bhardwaj](https://github.com/CrickSoldier)
+- [Alvaro Cueva](https://github.com/varopxndx)
 - [lavendersnake](https://github.com/lavendersnake)
 - [dialv](https://github.com/dialv)
 - [Mohit Aggarwal](https://github.com/Mister-maker)
